@@ -3,13 +3,12 @@
 namespace spayn\ImageHelpers\Yii2;
 
 use Yii;
-use spayn\ImageHelpers\ThumbnailGenerator;
-use yii\base\InvalidParamException;
-use yii\base\Object;
+use yii\base\Component;
 use yii\db\ActiveRecord;
+use yii\base\InvalidParamException;
+use spayn\ImageHelpers\ThumbnailGenerator;
 
-
-class ThumbnailGeneratorWrapper extends Object
+class ThumbnailGeneratorWrapper extends Component
 {
 
     /**
