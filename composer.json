@@ -5,7 +5,7 @@
     "require": {
         "php": "~7.0",
         "yiisoft/yii2": "~2.0",
-        "spayn/thumbnail_generator": "dev-master"
+        "spayn/thumbnail_generator": "~0.1"
     },
     "authors": [
         {
