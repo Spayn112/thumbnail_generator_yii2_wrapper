@@ -141,6 +141,7 @@ class ThumbnailGeneratorWrapper extends Component
 
     /**
      * Validates passed parameters
+     *
      * @throws InvalidParamException
      */
     private function validateParameters()

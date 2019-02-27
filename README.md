@@ -1,9 +1,4 @@
 # Thumbnail Generator Yii2 Wrapper
-Requirement:
-imagick,
-jpegoptim
-php extensions
-
 Usage:
 ```php
 // Configure
