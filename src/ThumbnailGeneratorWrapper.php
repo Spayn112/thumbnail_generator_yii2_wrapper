@@ -1,6 +1,6 @@
 <?php
 
-namespace common\components;
+namespace spayn\ImageHelpers\Yii2;
 
 use Yii;
 use spayn\ImageHelpers\ThumbnailGenerator;
