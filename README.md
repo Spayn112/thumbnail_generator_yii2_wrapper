@@ -12,15 +12,15 @@ Usage:
     'save_path' => '@backend/web/thumbs',
     'url' => '/backend/thumbs',
     'thumbs' => [
-        'common\modules\blog\models\Post' => [
-            'picture_property' => 'picture',
+        'common\models\Post' => [
+            'picture_property' => 'image',
             'resolutions' => [
                 'small' => '75x75',
                 'medium' => '730x410'
             ]
         ],
-        'common\modules\blog\models\SiteMeta' => [
-            'picture_property' => 'value',
+        'common\models\User' => [
+            'picture_property' => 'image',
             'resolutions' => [
                 'small' => '80x80'
             ]
