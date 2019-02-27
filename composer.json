@@ -1,0 +1,27 @@
+{
+    "name": "spayn/thumbnail_generator_yii2_wrapper",
+    "description": "Wrapper for spayn/thumbnail_generator",
+    "version": "0.1.0",
+    "require": {
+        "php": "~7.0",
+        "yiisoft/yii2": "~2.0",
+        "spayn/thumbnail_generator": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Виктор",
+            "email": "spayn112@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "spayn\\ImageHelpers\\Yii2\\": "src"
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
