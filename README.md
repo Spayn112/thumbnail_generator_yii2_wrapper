@@ -1,4 +1,4 @@
-# Thumbnail Generator
+# Thumbnail Generator Yii2 Wrapper
 Requirement:
 imagick,
 jpegoptim
