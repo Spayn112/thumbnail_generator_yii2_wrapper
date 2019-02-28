@@ -1,7 +1,6 @@
 {
     "name": "spayn/thumbnail_generator_yii2_wrapper",
     "description": "Wrapper for spayn/thumbnail_generator",
-    "version": "0.1.0",
     "require": {
         "php": "~7.0",
         "yiisoft/yii2": "~2.0",
